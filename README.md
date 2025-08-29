@@ -1,7 +1,10 @@
-# code-snippets
-A repository for favorite code snippets in multiple programming languages
-## Index
-
-- [veamR_snippets.py](./veamR_snippets.py)
-- [veamR_snippets.java](./veamR_snippets.java)
-- [veamR_snippets.js](./veamR_snippets.js)
+# Code Snippet Library
+## �� Python Snippets
+- [Loops in Python](loops.py)
+- [Recursion Example](recursion.py)
+## ☕ Java Snippets
+- [OOP Demo](OOPDemo.java)
+- [Sorting Techniques](Sorting.java)
+## �� JavaScript Snippets
+- [DOM Manipulation](dom-manipulation.js)
+- [Fetch API Example](fetchAPI.js)
